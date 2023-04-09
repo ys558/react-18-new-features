@@ -1,0 +1,11 @@
+html {
+  font-size: 2rem;
+}
+
+.div1 {
+  font-size: 12px;
+  .div2 {
+    // 这里的 10em = 120px;
+    width: 10em;
+  }
+}
